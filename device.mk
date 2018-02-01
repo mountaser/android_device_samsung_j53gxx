@@ -11,7 +11,3 @@ LOCAL_PATH := device/samsung/j53gxx
 
 # Common overlay
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
-
-# Glove mode
-PRODUCT_PACKAGES += \
-    GloveMode
